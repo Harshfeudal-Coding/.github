@@ -17,7 +17,7 @@ At here, I post my fun stuffs about my personal projects, it's sometimes easy or
 - [x] My teacher assignment thingy lol: https://github.com/harshfeudal/Testing
 
 #### Organization
-I made a organization if you prefer to join into:<br />
+I made an organization if you prefer to join into:<br />
 - The-Cubic: https://github.com/The-Cubic
 
 Thanks for visiting <3
