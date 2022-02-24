@@ -15,6 +15,7 @@ At here, I post my fun stuffs about my personal projects, it's sometimes easy or
 - [ ] Youtube C++ tutorial.
 - [x] TypeScript Discord bot (only for testing purpose only): https://github.com/harshfeudal/Keqing3939-TypeScript
 - [x] My teacher assignment thingy lol: https://github.com/harshfeudal/Testing
+- [x] Nlohmann JSON tutorial: https://github.com/harshfeudal/Cpp-json
 
 #### Organization
 I made an organization if you prefer to join into:<br />
