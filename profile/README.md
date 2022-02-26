@@ -5,6 +5,9 @@ At here, I post my fun stuffs about my personal projects, it's sometimes easy or
 - My [Discord server](https://discord.gg/harshfeudal).
 - My [main Github respiratory account](https://github.com/harshfeudal).
 - My website (it's under-construction).
+- My Youtube channels: for [Gaming](https://www.youtube.com/channel/UCnM88rgfYYaN65do-wvWr1w) and for [Coding](https://www.youtube.com/channel/UCh4mfaOFTwHqOMem5b305LA). The [old one](https://www.youtube.com/c/Harshfeudal) has been hacked :(
+- My [Twitter](https://twitter.com/harshfeudal0001).
+- My [Twitch account](https://www.twitch.tv/harshfeudal).
 
 ### Projects and planning
 - [ ] Make a Qt Windows GUI (under-construction).
