@@ -12,7 +12,7 @@ At here, I post my fun stuffs about my personal projects, it's sometimes easy or
 ### Projects and planning
 - [ ] Make a Qt Windows GUI (under-construction).
 - [x] Discord bot (old version): you can visit [here](https://github.com/harshfeudal/keqing).
-- [x] C++ basic projects: click [here]() to visit.
+- [x] C++ basic projects: click [here](https://github.com/harshfeudal/Cpp-json) to visit.
 - [ ] Dll injection for game hooking.
 - [ ] Personal website (under-construction).
 - [ ] Youtube C++ tutorial.
