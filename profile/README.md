@@ -21,7 +21,7 @@ At here, I post my fun stuffs about my personal projects, it's sometimes easy or
 - [x] Nlohmann JSON tutorial: https://github.com/harshfeudal/Cpp-json
 - [ ] Discord C++ package (I'd like to develop it more better than D++ or others, and I'm challenging myself to work it a long, maybe need some helps but I'll try as I can).
 
-#### Organization
+### Organization
 I made an organization if you prefer to join into:<br />
 - The-Cubic: https://github.com/The-Cubic
 
