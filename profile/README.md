@@ -2,7 +2,7 @@
 
 At here, I post my fun stuffs about my personal projects, it's sometimes easy or maybe have some complicated one :)<br />
 **My social community:**<br />
-- My [Discord server](https://discord.gg/harshfeudal).
+- My [Discord server](https://discord.gg/gksRNBTYGB).
 - My [main Github respiratory account](https://github.com/harshfeudal).
 - My website (it's under-construction).
 - My Youtube channels: for [Gaming](https://www.youtube.com/channel/UCnM88rgfYYaN65do-wvWr1w) and for [Coding](https://www.youtube.com/channel/UCh4mfaOFTwHqOMem5b305LA). The [old one](https://www.youtube.com/c/Harshfeudal) has been hacked :(
