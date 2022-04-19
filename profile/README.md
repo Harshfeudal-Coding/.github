@@ -1,7 +1,7 @@
 # Welcome to Harshfeudal's Github Respiratory!
 
 At here, I post my fun stuffs about my personal projects, it's sometimes easy or maybe have some complicated one :)<br />
-**My social community:**<br />
+**My social community:**
 - My [Discord server](https://discord.gg/gksRNBTYGB).
 - My [main Github respiratory account](https://github.com/harshfeudal).
 - My website (it's under-construction).
